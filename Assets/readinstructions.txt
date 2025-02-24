@@ -1,0 +1,15 @@
+//groundAcceleration, 
+//onAirJumps
+//jumpStrength
+//maxJumpTime
+//peakGravity
+//defaultGravity
+//fallingGravity
+
+maxGroundHorizontalSpeed
+groundHorizontalFriction  
+airAcceleration 
+airHorizontalFriction 
+maxAirHorizontalSpeed 
+yVelocityLowGravityThreshold 
+maxFallSpeed   
